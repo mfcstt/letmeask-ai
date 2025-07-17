@@ -1,8 +1,24 @@
 # Let me Ask AI
 
+👾✨ **Let Me Ask AI** é uma plataforma inovadora de perguntas e respostas pensada para transmissões ao vivo! Imagine um ambiente onde a interação entre público e apresentador é potencializada pela inteligência artificial.
+
+## Como funciona?
+
+Durante uma transmissão (simulada), os participantes podem enviar perguntas. O diferencial? Utilizamos a IA do Google — **Gemini** — para responder automaticamente, analisando o conteúdo falado pelo apresentador! 🤖🔮
+
+> **Obs.:** Nesta versão, a simulação é feita gravando o áudio pelo navegador (não há vídeo em tempo real ainda, mas isso está nos planos para o futuro!). 🎤🕒
+
+## Por que é especial?
+
+- 💜 **Interação em tempo real:** Respostas automáticas baseadas no que está sendo falado.
+- 🟣 **Tecnologia de ponta:** Integração com IA Gemini, trazendo respostas inteligentes e contextualizadas.
+- 🚀 **Foco no futuro:** O projeto é uma base para evoluir e, em breve, suportar transmissões de vídeo ao vivo e interações ainda mais ricas!
+
+---
+
 Projeto fullstack desenvolvido durante um evento da Rocketseat, unindo tecnologias modernas para criar uma experiência de perguntas e respostas com agentes inteligentes, interface web intuitiva e backend robusto.
 
-## 🏗️ Visão Geral
+## Visão Geral
 
 O Let me Ask AI é composto por dois principais módulos:
 
@@ -11,7 +27,7 @@ O Let me Ask AI é composto por dois principais módulos:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Backend
 
@@ -77,7 +93,7 @@ Acesse a aplicação em `http://localhost:5173`
 
 ---
 
-## 📚 Estrutura dos diretórios
+## Estrutura dos diretórios
 
 ```
 letmeask-ai/
